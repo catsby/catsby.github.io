@@ -4,9 +4,7 @@ layout: home
 
 <div class="homepage span8 offset3">
   <h1>Hi. I'm Clint Shryock.</h1>
-  <h2>I write <a href="https://github.com/catsby">code</a>.</h2>
-  <h2>I work at <a href="https://www.hashicorp.com">HashiCorp</a>.</h2>
-  <h2>I sometimes <a href="/archive.html">blog here</a>.</h2>
-  <h2>I collect <a href="/web-errors.html">web errors</a>.</h2>
-  <h2>Get in <a href="mailto:info@ctshryock.com">touch</a>.</h2>
+    <h2>GitHub: <a href="http://github.com/catsby">@catsby</h2></a>
+    <h2>LinkedIn: <a href="http://www.linkedin.com/in/ctshryock">ctshryock</h2></a>
+    <h2>Email: <a href="mailto:info@ctshryock.com">Info</h2></a>
 </div>
