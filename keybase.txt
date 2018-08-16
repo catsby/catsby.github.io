@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/catsby
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://catsby.net
+  * I am catsby (https://keybase.io/catsby) on keybase.
+  * I have a public key ASBrvFg3H_bKxwcWfQ2UcfGg5JqSgFxZeQHnszBYaSq7IAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120729b076e11c2d10f82af1b2cd54da256a731c44cb2a0fb7aa3d3d7c39de192650a",
+      "host": "keybase.io",
+      "kid": "01206bbc58371ff6cac707167d0d9471f1a0e49a92805c597901e7b33058692abb200a",
+      "uid": "0a06454628ebed0780fc0b682e20d200",
+      "username": "catsby"
+    },
+    "merkle_root": {
+      "ctime": 1534448671,
+      "hash": "eeab9d74ac1dc6fb38c679eac721bd6a0b9a07640eaca87e7a1d46af882ee9d94c9e1cba47ad8039cabac6a5596fc5bb9c354c84dc83596e8986921c73dc1812",
+      "hash_meta": "c1c05d001ff94f413397c3cae7ac3544e2b78c635a54e36589e3476bb78f9e03",
+      "seqno": 3466612
+    },
+    "service": {
+      "entropy": "zQ9h2uKQ2/uyuJYkhLCls9yb",
+      "hostname": "catsby.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534448683,
+  "expire_in": 504576000,
+  "prev": "6fe774d62c8cce291476a333b42f52ec73510bd921925cdbaa457284f83aa902",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEga7xYNx/2yscHFn0NlHHxoOSakoBcWXkB57MwWGkquyAKp3BheWxvYWTESpcCGcQgb+d01iyMzikUdqMztC9S7HNRC9khklzbqkVyhPg6qQLEIBZkcBYkQzm27G7Vy/emhITwZ7PTC3Gs8KULCynMc7WvAgHCo3NpZ8RAE8OqLpJOPiwpOTqm6gPWw559t3F/xD2K/t6bVPJPsAmKc2nnMAPVtAxVppyGVEGr8kWuvJNMPYheGaEtwMxrBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIJwKRp5Z6m4YLokYlpGPJkMLnrw9csrMqYT32QjNWuDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/catsby
+
+==================================================================
